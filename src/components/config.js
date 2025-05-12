@@ -6,7 +6,7 @@ const config = {
   */
 
   // 🔐 Passcode Page
-  correctPasscode: "0000", // Change this to any 4-digit code (the passcode for access)
+  correctPasscode: "0504", // Change this to any 4-digit code (the passcode for access)
   passcodeTitle: "Enter Passcode", // Title displayed on the passcode entry page
   successMessage: "Yayy!! :)", // Message shown upon successful passcode entry
   redirectMessage: "Redirecting...", // Message displayed while redirecting after success
@@ -18,13 +18,13 @@ const config = {
   trendingTitle: "Trending searches", // Title for the trending searches section
   trendingSearches: [
     "Why is my bf so cute?", // Example trending search query
-    "Why does Rheina love him more?", // Another example query
-    `Rheina's birthdate (coz her bf forgets)`, // A personalized trending search
+    "Why is my bf so perfect?", // Another example query
+    `Why is bf's laugh so addicting?`, // A personalized trending search
   ],
   proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 
   // ⏳ Timer Page
-  anniversaryDate: "2024-10-18", // 📅 Set your anniversary date here (used for the timer)
+  anniversaryDate: "2024-05-04", // 📅 Set your anniversary date here (used for the timer)
   timerTitle: "We've been together for:", // Title displayed on the timer page
   timerMessage: "... and still counting <3", // Message shown alongside the timer
   timeUnits: {
@@ -48,14 +48,14 @@ const config = {
   musicTitle: "Songs that remind me of you", // Title for the music page
   musicGallery: [
     {
-      title: "Heavenly", // Title of the song
-      artist: "Cigarettes After Sex", // Artist of the song
+      title: "Fukashigi no Carte", // Title of the song
+      artist: "Rascal Does not Dream of a Bunny Girl Senpai", // Artist of the song
       left: "5%", // Positioning on the page
       top: "5%", // Positioning on the page
     },
     {
-      title: "The Boy Is Mine",
-      artist: "Brandy, Monica",
+      title: "Japanese Denim",
+      artist: "Daniel Caesar",
       left: "40%",
       top: "15%",
     },
@@ -66,59 +66,59 @@ const config = {
       top: "40%",
     },
     {
-      title: "Last Night on Earth",
-      artist: "Green Day",
+      title: "From the Start",
+      artist: "Laufey",
       left: "30%",
       top: "75%",
     },
     {
-      title: "American Boy",
-      artist: "Estelle, Kanye West",
+      title: "Light",
+      artist: "Wave to Earth",
       left: "5%",
       top: "65%",
     },
     {
-      title: "Sparks",
-      artist: "Coldplay",
+      title: "See You Again",
+      artist: "Tyler the Creator, Kali Uchis",
       left: "25%",
       top: "90%",
     },
     {
-      title: "Kiss Me Thru The Phone",
-      artist: "Soulja Boy, Sammie",
+      title: "Only",
+      artist: "LeeHi",
       left: "35%",
       top: "50%",
     },
     {
-      title: "Sunsetz",
-      artist: "Cigarettes After Sex",
+      title: "Moonlight",
+      artist: "Twice",
       left: "10%",
       top: "25%",
     },
   ],
 
     // 📝 Message Recap Page
-    messageTitle: "Our Messages", // Title for the messages recap page
+    messageTitle: "Messages with the Girls", // Title for the messages recap page
     messageGallery: [
-      { title: "September 3, 2024", description: "A beautiful day to remember." }, // Message entry
-      { title: "October 5, 2024", description: "Cherishing moments together." },
-      { title: "December 25, 2024", description: "Christmas with love ❤️" },
+      { title: "May 3, 2024", description: "Hershey Park Recap." }, // Message entry
+      { title: "May 5, 2024", description: "Makalia didn't forget the fumble either." },
+      { title: "May 5, 2024", description: "The Cutest ❤️" },
     ],
   
     // 📸 Picture Recap Page
     pictureTitle: "Our Pictures", // Title for the pictures recap page
     pictureGallery: [
-      { title: "January 1, 2024", description: "New Year's Celebration 🎉" }, // Picture entry
-      { title: "February 14, 2024", description: "Valentine's Day 💕" },
-      { title: "March 10, 2024", description: "Beach trip memories 🏖️" },
+      { title: "April 27, 2024", description: "Prom " }, // Picture entry
+      { title: "September 15, 2024", description: "College Sleepover 💕" },
+      { title: "December 14, 2024", description: "Rocky Ridge" },
     ],
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "Hi, I love you so much💖", // Message displayed on the love letter page
+  loveLetterMessage: "Hiiiii baby, Happy 1 year! I can't believe it's already been a year, it's flown by so fast it seems. I always think back to our date at the arcade and the fact that you remembered me talking about it and offered to take me there, from then on I knew you were the one. I love you so so so so much and I could never imagine spending the rest of my life with anyone else. You're my absolute world and I can't wait to spend the next year and more with you. Happy 1 year anniversary again, I love you 💖", // Message displayed on the love letter page
 
   // 🎇 Closing Page
-  closingMessage: "Thank you for everything, my love! 💖 Wishing us many more wonderful years together.", // Closing message displayed
+  closingMessage: "Thank you for an amazing year! 💖 Excited to spend many more wonderful years together.", // Closing message displayed
 
   /* 
   ████████████████████████████████████████
